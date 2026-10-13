@@ -1,13 +1,8 @@
-# UI Module (User Interface)
+# User Interface (UI) Module
 
-## Overview
-This directory contains the user interface layer for the Smart Virtual Assistant.
+## Kế hoạch tích hợp
+- UI giao tiếp trực tiếp với hàm `reply(query: str)` từ module `src.assistant.rules`.
+- Khi người dùng gửi câu hỏi, giao diện truyền chuỗi truy vấn vào backend và hiển thị kết quả phản hồi cùng nguồn trích dẫn.
 
-## Plan
-- Implementation phase: Scheduled from Week 7.
-- Planned interfaces:
-  - Command-Line Interface (CLI with rich formatted output).
-  - Web UI / Prototype (e.g., Streamlit, Chainlit, or Gradio).
-
-## Directory Structure
-- `ui/`: UI templates, layout configurations, and entry points.
+## Thiết kế khung giao diện (Placeholder)
+- File `ui/app.py` là trang giao diện placeholder khởi tạo khung chat và ô nhập tin nhắn văn bản.
