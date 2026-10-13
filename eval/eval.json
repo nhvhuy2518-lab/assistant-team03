@@ -1,0 +1,17 @@
+[
+  {"id": 1, "question": "where is training", "expected_substring": "Training Office"},
+  {"id": 2, "question": "what is the opening hours of the IT office", "expected_substring": "open"},
+  {"id": 3, "question": "where can I find the admissions office", "expected_substring": "Admissions"},
+  {"id": 4, "question": "help", "expected_substring": "office"},
+  {"id": 5, "question": "where is room 1.101", "expected_substring": "room"},
+  {"id": 6, "question": "library hours", "expected_substring": "open"},
+  {"id": 7, "question": "student support contact", "expected_substring": "Support"},
+  {"id": 8, "question": "where is the dean office", "expected_substring": "Dean"},
+  {"id": 9, "question": "exam department location", "expected_substring": "Exam"},
+  {"id": 10, "question": "scholarship office hours", "expected_substring": "Scholarship"},
+  {"id": 11, "question": "where is lab A1", "expected_substring": "Lab"},
+  {"id": 12, "question": "financial aid office", "expected_substring": "Financial"},
+  {"id": 13, "question": "health services location", "expected_substring": "Health"},
+  {"id": 14, "question": "international student office", "expected_substring": "International"},
+  {"id": 15, "question": "where is the cafeteria", "expected_substring": "Cafeteria"}
+]
